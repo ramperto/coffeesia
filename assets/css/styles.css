@@ -248,6 +248,10 @@ h1 {
   color: #fff;
 }
 
+.footer address {
+  font-style: normal;
+}
+
 .copyright {
   font-size: 0.85rem;
   color: rgba(255, 255, 255, 0.6);
